@@ -1,0 +1,57 @@
+body {
+    font-family: "Inter", sans-serif;
+    color: #9B4A97FF; 
+    background-color: #F9A12EFF; 
+    background-position: center;
+
+}
+
+.sec1 {
+  margin: 2rem;
+}
+
+.sec2 {
+    border: 5px solid #FC766AFF;
+    background-image: url(./assets/staples_scan.jpg);
+    background-size: cover; 
+}
+
+.sec3 {
+    justify-content: center;
+}
+
+img {
+    max-width: 10rem;
+    margin: 2vw;
+    border: 5px solid black;
+}
+
+.nav-link {
+   color: whitesmoke; 
+}
+
+.nav-link:hover {
+    color: #9B4A97FF; 
+}
+
+.nav-link:active {
+    color:#9B4A97FF;
+    opacity: 0.5; 
+}
+
+.txt {
+    margin-top: 3em; 
+    margin-bottom: 3em; 
+    margin-right: 1em; 
+    margin-left: 1em; 
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#FC766AFF; 
+    opacity: 0.5; 
+}
